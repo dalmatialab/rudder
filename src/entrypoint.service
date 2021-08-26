@@ -1,0 +1,10 @@
+[Unit]
+Description=Rudder service
+
+[Service]
+PassEnvironment=RUDDER_USER RUDDER_PASSWORD RUDDER_ROLE
+ExecStart=/usr/sbin/install.sh
+ExecStartPost= systemctl disable entrypoint.service
+
+[Install]
+WantedBy=multi-user.target
