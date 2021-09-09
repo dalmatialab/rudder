@@ -1,8 +1,9 @@
-![example workflow](https://github.com/dalmatialab/zookeeper/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/dalmatialab/rudder/actions/workflows/main.yml/badge.svg)
 
 # Supported tags and respective Dockerfile links
 
- - [6.2](https://github.com/dalmatialab/rudder/blob/025190e23717cd4a8ad4f0cfbda5120ab368f6c8/Dockerfile)
+ - [6.2-rc-2](https://github.com/dalmatialab/rudder/blob/025190e23717cd4a8ad4f0cfbda5120ab368f6c8/Dockerfile)
+ - [6.2-rc-1](https://github.com/dalmatialab/rudder/blob/025190e23717cd4a8ad4f0cfbda5120ab368f6c8/Dockerfile)
 
 # What is Rudder ?
 
