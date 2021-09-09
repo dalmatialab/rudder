@@ -2,7 +2,7 @@
 
 # Supported tags and respective Dockerfile links
 
- - 6.2
+ - [6.2](https://github.com/dalmatialab/rudder/blob/025190e23717cd4a8ad4f0cfbda5120ab368f6c8/Dockerfile)
 
 # What is Rudder ?
 
