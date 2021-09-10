@@ -88,4 +88,5 @@ After execution of the "mount" command, all non-empty ***original*** directories
 
 ***original*** - directories we mounted on startup of the container, server configuration is stored in these directories.
 
- 
+***Starting rudder with existing configuration on other machine***
+Starting rudder server with existing configuration works well on the same machine. If You want to start rudder server with existing configuration on different machine, take care about ownership and rights of the files. Make sure that user and group of directory /var/rudder/ldap/openldap-data/ and files inside are set to rudder-slapd:rudder-slapd.
